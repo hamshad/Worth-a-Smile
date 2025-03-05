@@ -1,0 +1,356 @@
+2025-03-05 18:25:11,836 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-05 18:25:11,837 - [33mPress CTRL+C to quit[0m
+2025-03-05 18:25:11,847 -  * Restarting with stat
+2025-03-05 18:25:13,669 -  * Debugger is active!
+2025-03-05 18:25:13,683 -  * Debugger PIN: 823-432-813
+2025-03-05 18:25:35,112 - 127.0.0.1 - - [05/Mar/2025 18:25:35] "GET / HTTP/1.1" 200 -
+2025-03-05 18:25:35,455 - 127.0.0.1 - - [05/Mar/2025 18:25:35] "GET /static/styles.css HTTP/1.1" 200 -
+2025-03-05 18:25:44,850 - 127.0.0.1 - - [05/Mar/2025 18:25:44] "GET /video_feed HTTP/1.1" 200 -
+2025-03-05 18:25:44,919 - No smile detected.
+2025-03-05 18:25:45,007 - No smile detected.
+2025-03-05 18:25:45,077 - No smile detected.
+2025-03-05 18:25:45,148 - No smile detected.
+2025-03-05 18:25:45,215 - No smile detected.
+2025-03-05 18:25:45,306 - Smile detected!
+2025-03-05 18:25:46,086 - API call successful: {'title': 'Smile Detection', 'body': 'Smile detected!', 'userId': 1, 'id': 101}
+2025-03-05 18:25:46,170 - Smile detected!
+2025-03-05 18:25:46,822 - API call successful: {'title': 'Smile Detection', 'body': 'Smile detected!', 'userId': 1, 'id': 101}
+2025-03-05 18:25:46,901 - Smile detected!
+2025-03-05 18:25:47,546 - API call successful: {'title': 'Smile Detection', 'body': 'Smile detected!', 'userId': 1, 'id': 101}
+2025-03-05 18:25:47,628 - No smile detected.
+2025-03-05 18:25:47,692 - No smile detected.
+2025-03-05 18:25:47,772 - No smile detected.
+2025-03-05 18:25:47,833 - No smile detected.
+2025-03-05 18:25:47,897 - No smile detected.
+2025-03-05 18:25:47,965 - No smile detected.
+2025-03-05 18:25:48,044 - No smile detected.
+2025-03-05 18:25:48,114 - No smile detected.
+2025-03-05 18:25:48,190 - No smile detected.
+2025-03-05 18:25:48,264 - No smile detected.
+2025-03-05 18:25:48,337 - No smile detected.
+2025-03-05 18:25:48,408 - No smile detected.
+2025-03-05 18:25:48,473 - No smile detected.
+2025-03-05 18:25:48,550 - No smile detected.
+2025-03-05 18:25:48,613 - No smile detected.
+2025-03-05 18:25:48,678 - No smile detected.
+2025-03-05 18:25:48,740 - No smile detected.
+2025-03-05 18:25:48,802 - No smile detected.
+2025-03-05 18:25:48,867 - No smile detected.
+2025-03-05 18:25:48,942 - No smile detected.
+2025-03-05 18:25:49,001 - No smile detected.
+2025-03-05 18:25:49,063 - No smile detected.
+2025-03-05 18:25:49,129 - No smile detected.
+2025-03-05 18:25:49,204 - Smile detected!
+2025-03-05 18:25:49,879 - API call successful: {'title': 'Smile Detection', 'body': 'Smile detected!', 'userId': 1, 'id': 101}
+2025-03-05 18:25:49,957 - Smile detected!
+2025-03-05 18:25:50,611 - API call successful: {'title': 'Smile Detection', 'body': 'Smile detected!', 'userId': 1, 'id': 101}
+2025-03-05 18:25:50,690 - Smile detected!
+2025-03-05 18:25:51,307 - API call successful: {'title': 'Smile Detection', 'body': 'Smile detected!', 'userId': 1, 'id': 101}
+2025-03-05 18:25:51,388 - Smile detected!
+2025-03-05 18:25:52,004 - API call successful: {'title': 'Smile Detection', 'body': 'Smile detected!', 'userId': 1, 'id': 101}
+2025-03-05 18:25:52,078 - Smile detected!
+2025-03-05 18:25:52,782 - API call successful: {'title': 'Smile Detection', 'body': 'Smile detected!', 'userId': 1, 'id': 101}
+2025-03-05 18:25:52,856 - Smile detected!
+2025-03-05 18:25:53,480 - API call successful: {'title': 'Smile Detection', 'body': 'Smile detected!', 'userId': 1, 'id': 101}
+2025-03-05 18:25:53,550 - No smile detected.
+2025-03-05 18:25:53,619 - No smile detected.
+2025-03-05 18:25:53,687 - No smile detected.
+2025-03-05 18:25:53,756 - Smile detected!
+2025-03-05 18:25:54,372 - API call successful: {'title': 'Smile Detection', 'body': 'Smile detected!', 'userId': 1, 'id': 101}
+2025-03-05 18:25:54,448 - Smile detected!
+2025-03-05 18:25:54,689 - API call successful: {'title': 'Smile Detection', 'body': 'Smile detected!', 'userId': 1, 'id': 101}
+2025-03-05 18:25:54,762 - Smile detected!
+2025-03-05 18:25:55,389 - API call successful: {'title': 'Smile Detection', 'body': 'Smile detected!', 'userId': 1, 'id': 101}
+2025-03-05 18:25:55,467 - No smile detected.
+2025-03-05 18:25:55,533 - No smile detected.
+2025-03-05 18:25:55,591 - Smile detected!
+2025-03-05 18:25:56,232 - API call successful: {'title': 'Smile Detection', 'body': 'Smile detected!', 'userId': 1, 'id': 101}
+2025-03-05 18:25:56,311 - No smile detected.
+2025-03-05 18:25:56,375 - Smile detected!
+2025-03-05 18:25:57,038 - API call successful: {'title': 'Smile Detection', 'body': 'Smile detected!', 'userId': 1, 'id': 101}
+2025-03-05 18:25:57,107 - No smile detected.
+2025-03-05 18:25:57,176 - No smile detected.
+2025-03-05 18:25:57,249 - No smile detected.
+2025-03-05 18:25:57,327 - No smile detected.
+2025-03-05 18:25:57,405 - No smile detected.
+2025-03-05 18:25:57,520 - No smile detected.
+2025-03-05 18:25:57,591 - No smile detected.
+2025-03-05 18:25:57,657 - No smile detected.
+2025-03-05 18:25:57,723 - No smile detected.
+2025-03-05 18:25:57,784 - No smile detected.
+2025-03-05 18:25:57,905 - No smile detected.
+2025-03-05 18:25:57,969 - No smile detected.
+2025-03-05 18:25:58,037 - No smile detected.
+2025-03-05 18:25:58,098 - No smile detected.
+2025-03-05 18:25:58,161 - No smile detected.
+2025-03-05 18:25:58,226 - Smile detected!
+2025-03-05 18:25:58,837 - API call successful: {'title': 'Smile Detection', 'body': 'Smile detected!', 'userId': 1, 'id': 101}
+2025-03-05 18:25:58,917 - Smile detected!
+2025-03-05 18:25:59,158 - API call successful: {'title': 'Smile Detection', 'body': 'Smile detected!', 'userId': 1, 'id': 101}
+2025-03-05 18:25:59,244 - Smile detected!
+2025-03-05 18:25:59,489 - API call successful: {'title': 'Smile Detection', 'body': 'Smile detected!', 'userId': 1, 'id': 101}
+2025-03-05 18:25:59,568 - Smile detected!
+2025-03-05 18:25:59,809 - API call successful: {'title': 'Smile Detection', 'body': 'Smile detected!', 'userId': 1, 'id': 101}
+2025-03-05 18:25:59,890 - Smile detected!
+2025-03-05 18:26:00,576 - API call successful: {'title': 'Smile Detection', 'body': 'Smile detected!', 'userId': 1, 'id': 101}
+2025-03-05 18:26:00,756 - No smile detected.
+2025-03-05 18:26:00,814 - No smile detected.
+2025-03-05 18:26:00,878 - No smile detected.
+2025-03-05 18:26:00,951 - Smile detected!
+2025-03-05 18:26:01,610 - API call successful: {'title': 'Smile Detection', 'body': 'Smile detected!', 'userId': 1, 'id': 101}
+2025-03-05 18:26:01,619 - No smile detected.
+2025-03-05 18:26:01,697 - No smile detected.
+2025-03-05 18:26:01,760 - No smile detected.
+2025-03-05 18:26:01,828 - No smile detected.
+2025-03-05 18:26:01,888 - No smile detected.
+2025-03-05 18:26:01,948 - No smile detected.
+2025-03-05 18:26:02,329 - No smile detected.
+2025-03-05 18:26:02,439 - No smile detected.
+2025-03-05 18:26:02,502 - No smile detected.
+2025-03-05 18:26:02,571 - No smile detected.
+2025-03-05 18:26:02,647 - No smile detected.
+2025-03-05 18:26:02,840 - No smile detected.
+2025-03-05 18:26:02,917 - No smile detected.
+2025-03-05 18:26:02,974 - No smile detected.
+2025-03-05 18:26:03,032 - No smile detected.
+2025-03-05 18:26:03,093 - No smile detected.
+2025-03-05 18:26:03,401 - Smile detected!
+2025-03-05 18:26:04,091 - API call successful: {'title': 'Smile Detection', 'body': 'Smile detected!', 'userId': 1, 'id': 101}
+2025-03-05 18:26:04,175 - Smile detected!
+2025-03-05 18:26:04,785 - API call successful: {'title': 'Smile Detection', 'body': 'Smile detected!', 'userId': 1, 'id': 101}
+2025-03-05 18:26:04,880 - Smile detected!
+2025-03-05 18:26:05,495 - API call successful: {'title': 'Smile Detection', 'body': 'Smile detected!', 'userId': 1, 'id': 101}
+2025-03-05 18:26:05,566 - Smile detected!
+2025-03-05 18:26:06,188 - API call successful: {'title': 'Smile Detection', 'body': 'Smile detected!', 'userId': 1, 'id': 101}
+2025-03-05 18:26:06,249 - No smile detected.
+2025-03-05 18:26:06,310 - No smile detected.
+2025-03-05 18:26:06,370 - No smile detected.
+2025-03-05 18:26:06,466 - No smile detected.
+2025-03-05 18:26:06,522 - No smile detected.
+2025-03-05 18:26:06,594 - No smile detected.
+2025-03-05 18:26:06,656 - No smile detected.
+2025-03-05 18:26:06,724 - No smile detected.
+2025-03-05 18:26:06,795 - No smile detected.
+2025-03-05 18:26:06,871 - No smile detected.
+2025-03-05 18:26:06,939 - No smile detected.
+2025-03-05 18:26:07,003 - No smile detected.
+2025-03-05 18:26:07,061 - No smile detected.
+2025-03-05 18:26:07,116 - No smile detected.
+2025-03-05 18:26:07,174 - No smile detected.
+2025-03-05 18:26:07,247 - No smile detected.
+2025-03-05 18:26:07,302 - No smile detected.
+2025-03-05 18:26:07,355 - No smile detected.
+2025-03-05 18:26:07,412 - No smile detected.
+2025-03-05 18:26:07,482 - No smile detected.
+2025-03-05 18:26:07,536 - No smile detected.
+2025-03-05 18:26:07,680 - No smile detected.
+2025-03-05 18:26:07,733 - No smile detected.
+2025-03-05 18:26:07,783 - No smile detected.
+2025-03-05 18:26:07,836 - No smile detected.
+2025-03-05 18:26:07,892 - No smile detected.
+2025-03-05 18:26:07,940 - No smile detected.
+2025-03-05 18:26:07,991 - No smile detected.
+2025-03-05 18:26:08,050 - No smile detected.
+2025-03-05 18:26:08,106 - No smile detected.
+2025-03-05 18:26:08,168 - No smile detected.
+2025-03-05 18:26:08,287 - No smile detected.
+2025-03-05 18:26:08,345 - No smile detected.
+2025-03-05 18:26:08,406 - No smile detected.
+2025-03-05 18:26:08,463 - No smile detected.
+2025-03-05 18:26:08,514 - No smile detected.
+2025-03-05 18:26:08,565 - No smile detected.
+2025-03-05 18:26:08,674 - No smile detected.
+2025-03-05 18:26:08,723 - No smile detected.
+2025-03-05 18:26:08,791 - No smile detected.
+2025-03-05 18:26:08,846 - No smile detected.
+2025-03-05 18:26:08,974 - No smile detected.
+2025-03-05 18:26:09,029 - No smile detected.
+2025-03-05 18:26:09,089 - No smile detected.
+2025-03-05 18:26:09,149 - No smile detected.
+2025-03-05 18:26:09,202 - No smile detected.
+2025-03-05 18:26:09,255 - No smile detected.
+2025-03-05 18:26:09,318 - No smile detected.
+2025-03-05 18:26:09,371 - No smile detected.
+2025-03-05 18:26:09,424 - No smile detected.
+2025-03-05 18:26:09,493 - No smile detected.
+2025-03-05 18:26:09,554 - No smile detected.
+2025-03-05 18:26:09,615 - No smile detected.
+2025-03-05 18:26:09,724 - No smile detected.
+2025-03-05 18:26:09,796 - No smile detected.
+2025-03-05 18:26:09,857 - No smile detected.
+2025-03-05 18:26:09,906 - No smile detected.
+2025-03-05 18:26:09,958 - No smile detected.
+2025-03-05 18:26:10,010 - No smile detected.
+2025-03-05 18:26:10,098 - No smile detected.
+2025-03-05 18:26:10,149 - No smile detected.
+2025-03-05 18:26:10,199 - No smile detected.
+2025-03-05 18:26:10,251 - No smile detected.
+2025-03-05 18:26:10,360 - No smile detected.
+2025-03-05 18:26:10,416 - No smile detected.
+2025-03-05 18:26:10,469 - No smile detected.
+2025-03-05 18:26:10,524 - No smile detected.
+2025-03-05 18:26:10,577 - No smile detected.
+2025-03-05 18:26:10,629 - No smile detected.
+2025-03-05 18:26:10,751 - No smile detected.
+2025-03-05 18:26:10,808 - No smile detected.
+2025-03-05 18:26:10,871 - No smile detected.
+2025-03-05 18:26:10,932 - No smile detected.
+2025-03-05 18:26:11,001 - No smile detected.
+2025-03-05 18:26:11,070 - No smile detected.
+2025-03-05 18:26:11,152 - No smile detected.
+2025-03-05 18:26:11,219 - No smile detected.
+2025-03-05 18:26:11,288 - No smile detected.
+2025-03-05 18:26:11,341 - No smile detected.
+2025-03-05 18:26:11,396 - No smile detected.
+2025-03-05 18:26:11,450 - No smile detected.
+2025-03-05 18:26:11,504 - No smile detected.
+2025-03-05 18:26:11,556 - No smile detected.
+2025-03-05 18:26:11,615 - No smile detected.
+2025-03-05 18:26:11,672 - No smile detected.
+2025-03-05 18:26:11,792 - No smile detected.
+2025-03-05 18:26:11,845 - No smile detected.
+2025-03-05 18:26:11,900 - No smile detected.
+2025-03-05 18:26:11,953 - No smile detected.
+2025-03-05 18:26:12,005 - No smile detected.
+2025-03-05 18:26:12,064 - No smile detected.
+2025-03-05 18:26:12,176 - No smile detected.
+2025-03-05 18:26:12,236 - No smile detected.
+2025-03-05 18:26:12,294 - No smile detected.
+2025-03-05 18:26:12,359 - No smile detected.
+2025-03-05 18:26:12,428 - No smile detected.
+2025-03-05 18:26:12,495 - No smile detected.
+2025-03-05 18:26:12,571 - No smile detected.
+2025-03-05 18:26:12,641 - No smile detected.
+2025-03-05 18:26:12,708 - No smile detected.
+2025-03-05 18:26:12,761 - No smile detected.
+2025-03-05 18:26:12,823 - No smile detected.
+2025-03-05 18:26:12,878 - No smile detected.
+2025-03-05 18:26:12,932 - No smile detected.
+2025-03-05 18:26:12,988 - No smile detected.
+2025-03-05 18:26:13,043 - No smile detected.
+2025-03-05 18:26:13,094 - No smile detected.
+2025-03-05 18:26:13,217 - No smile detected.
+2025-03-05 18:26:13,270 - No smile detected.
+2025-03-05 18:26:13,324 - No smile detected.
+2025-03-05 18:26:13,388 - No smile detected.
+2025-03-05 18:26:13,443 - No smile detected.
+2025-03-05 18:26:13,495 - No smile detected.
+2025-03-05 18:26:13,604 - No smile detected.
+2025-03-05 18:26:13,658 - No smile detected.
+2025-03-05 18:26:13,715 - No smile detected.
+2025-03-05 18:26:13,779 - No smile detected.
+2025-03-05 18:26:13,848 - No smile detected.
+2025-03-05 18:26:13,917 - No smile detected.
+2025-03-05 18:26:13,985 - No smile detected.
+2025-03-05 18:26:14,049 - No smile detected.
+2025-03-05 18:26:14,119 - No smile detected.
+2025-03-05 18:26:14,182 - No smile detected.
+2025-03-05 18:26:14,254 - No smile detected.
+2025-03-05 18:26:14,306 - No smile detected.
+2025-03-05 18:26:14,363 - No smile detected.
+2025-03-05 18:26:14,422 - No smile detected.
+2025-03-05 18:26:14,475 - No smile detected.
+2025-03-05 18:26:14,529 - No smile detected.
+2025-03-05 18:26:14,672 - No smile detected.
+2025-03-05 18:26:14,732 - No smile detected.
+2025-03-05 18:26:14,786 - No smile detected.
+2025-03-05 18:26:14,839 - No smile detected.
+2025-03-05 18:26:14,895 - No smile detected.
+2025-03-05 18:26:14,948 - No smile detected.
+2025-03-05 18:26:15,034 - Smile detected!
+2025-03-05 18:26:15,665 - API call successful: {'title': 'Smile Detection', 'body': 'Smile detected!', 'userId': 1, 'id': 101}
+2025-03-05 18:26:15,747 - Smile detected!
+2025-03-05 18:26:16,382 - API call successful: {'title': 'Smile Detection', 'body': 'Smile detected!', 'userId': 1, 'id': 101}
+2025-03-05 18:26:16,902 - Smile detected!
+2025-03-05 18:26:17,547 - API call successful: {'title': 'Smile Detection', 'body': 'Smile detected!', 'userId': 1, 'id': 101}
+2025-03-05 18:26:17,631 - Smile detected!
+2025-03-05 18:26:18,287 - API call successful: {'title': 'Smile Detection', 'body': 'Smile detected!', 'userId': 1, 'id': 101}
+2025-03-05 18:26:18,361 - Smile detected!
+2025-03-05 18:26:18,612 - API call successful: {'title': 'Smile Detection', 'body': 'Smile detected!', 'userId': 1, 'id': 101}
+2025-03-05 18:26:18,690 - No smile detected.
+2025-03-05 18:26:18,748 - No smile detected.
+2025-03-05 18:26:18,802 - No smile detected.
+2025-03-05 18:26:18,930 - No smile detected.
+2025-03-05 18:26:18,991 - No smile detected.
+2025-03-05 18:26:19,055 - No smile detected.
+2025-03-05 18:26:19,126 - No smile detected.
+2025-03-05 18:26:19,197 - No smile detected.
+2025-03-05 18:26:19,274 - Smile detected!
+2025-03-05 18:26:19,522 - API call successful: {'title': 'Smile Detection', 'body': 'Smile detected!', 'userId': 1, 'id': 101}
+2025-03-05 18:26:19,611 - No smile detected.
+2025-03-05 18:26:19,676 - No smile detected.
+2025-03-05 18:26:19,748 - No smile detected.
+2025-03-05 18:26:19,814 - No smile detected.
+2025-03-05 18:26:19,879 - No smile detected.
+2025-03-05 18:26:19,983 - No smile detected.
+2025-03-05 18:26:20,054 - No smile detected.
+2025-03-05 18:26:20,125 - No smile detected.
+2025-03-05 18:26:20,196 - No smile detected.
+2025-03-05 18:26:20,268 - No smile detected.
+2025-03-05 18:26:20,371 - No smile detected.
+2025-03-05 18:26:20,440 - No smile detected.
+2025-03-05 18:26:20,526 - No smile detected.
+2025-03-05 18:26:20,611 - No smile detected.
+2025-03-05 18:26:20,699 - No smile detected.
+2025-03-05 18:26:20,799 - No smile detected.
+2025-03-05 18:26:20,885 - No smile detected.
+2025-03-05 18:26:20,971 - No smile detected.
+2025-03-05 18:26:21,044 - No smile detected.
+2025-03-05 18:26:21,148 - No smile detected.
+2025-03-05 18:26:21,213 - No smile detected.
+2025-03-05 18:26:21,281 - No smile detected.
+2025-03-05 18:26:21,344 - No smile detected.
+2025-03-05 18:26:21,413 - No smile detected.
+2025-03-05 18:26:21,482 - No smile detected.
+2025-03-05 18:26:21,549 - No smile detected.
+2025-03-05 18:26:21,617 - No smile detected.
+2025-03-05 18:26:21,683 - No smile detected.
+2025-03-05 18:26:21,751 - No smile detected.
+2025-03-05 18:26:22,109 - Smile detected!
+2025-03-05 18:26:22,736 - API call successful: {'title': 'Smile Detection', 'body': 'Smile detected!', 'userId': 1, 'id': 101}
+2025-03-05 18:26:22,824 - Smile detected!
+2025-03-05 18:26:23,098 - API call successful: {'title': 'Smile Detection', 'body': 'Smile detected!', 'userId': 1, 'id': 101}
+2025-03-05 18:26:23,177 - Smile detected!
+2025-03-05 18:26:23,805 - API call successful: {'title': 'Smile Detection', 'body': 'Smile detected!', 'userId': 1, 'id': 101}
+2025-03-05 18:26:23,891 - No smile detected.
+2025-03-05 18:26:23,951 - No smile detected.
+2025-03-05 18:26:24,393 - No smile detected.
+2025-03-05 18:26:24,517 - No smile detected.
+2025-03-05 18:26:24,576 - No smile detected.
+2025-03-05 18:26:24,636 - No smile detected.
+2025-03-05 18:26:26,987 - No smile detected.
+2025-03-05 18:26:27,051 - No smile detected.
+2025-03-05 18:26:27,122 - No smile detected.
+2025-03-05 18:26:27,187 - No smile detected.
+2025-03-05 18:26:27,249 - No smile detected.
+2025-03-05 18:26:27,311 - No smile detected.
+2025-03-05 18:26:27,655 - No smile detected.
+2025-03-05 18:26:27,740 - No smile detected.
+2025-03-05 18:26:27,827 - No smile detected.
+2025-03-05 18:26:27,979 - No smile detected.
+2025-03-05 18:26:28,049 - No smile detected.
+2025-03-05 18:26:28,119 - No smile detected.
+2025-03-05 18:26:28,192 - No smile detected.
+2025-03-05 18:26:28,277 - No smile detected.
+2025-03-05 18:26:28,336 - No smile detected.
+2025-03-05 18:26:28,565 - No smile detected.
+2025-03-05 18:26:28,675 - No smile detected.
+2025-03-05 18:26:28,736 - No smile detected.
+2025-03-05 18:26:28,800 - No smile detected.
+2025-03-05 18:26:28,868 - No smile detected.
+2025-03-05 18:26:28,930 - No smile detected.
+2025-03-05 18:26:28,985 - No smile detected.
+2025-03-05 18:26:29,049 - No smile detected.
+2025-03-05 18:26:29,113 - No smile detected.
+2025-03-05 18:26:29,205 - No smile detected.
+2025-03-05 18:26:29,272 - No smile detected.
+2025-03-05 18:26:29,337 - No smile detected.
+2025-03-05 18:26:29,456 - No smile detected.
+2025-03-05 18:26:29,518 - No smile detected.
+2025-03-05 18:26:29,573 - No smile detected.
+2025-03-05 18:26:29,628 - No smile detected.
+2025-03-05 18:26:29,687 - No smile detected.
+2025-03-05 18:26:29,840 - No smile detected.
+2025-03-05 18:26:29,895 - No smile detected.
+2025-03-05 18:26:29,950 - No smile detected.
