@@ -19,25 +19,11 @@ smile_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_smile
 
 def detect_smile(frame):
     gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
-    
-    # Fine-tuned parameters for face detection
-    faces = face_cascade.detectMultiScale(
-        gray,
-        scaleFactor=1.1,  # Slightly reduce scale factor for better accuracy
-        minNeighbors=5,   # Increase neighbors to reduce false positives
-        minSize=(30, 30)  # Ignore very small faces
-    )
+    faces = face_cascade.detectMultiScale(gray, scaleFactor=1.3, minNeighbors=5)
 
     for (x, y, w, h) in faces:
         roi_gray = gray[y:y+h, x:x+w]
-        
-        # Fine-tuned parameters for smile detection
-        smiles = smile_cascade.detectMultiScale(
-            roi_gray,
-            scaleFactor=1.8,  # Increase scale factor for faster processing
-            minNeighbors=25,  # Increase neighbors to reduce false positives
-            minSize=(25, 25)   # Ignore very small smiles
-        )
+        smiles = smile_cascade.detectMultiScale(roi_gray, scaleFactor=1.8, minNeighbors=20)
 
         if len(smiles) > 0:
             cv2.rectangle(frame, (x, y), (x+w, y+h), (0, 255, 0), 2)
